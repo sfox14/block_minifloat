@@ -1,0 +1,16 @@
+checkpoints
+build
+dist
+*.egg-info
+
+# Pytorch Models
+*.pth
+*.pt
+
+# images
+*.png
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
